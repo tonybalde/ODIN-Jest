@@ -1,6 +1,8 @@
 # ODIN-Jest
 <h2>Jest Practice for Odin Project!</h2>
 
+
+<h3>Funcions</h3>
 <li>1. A capitalize function that takes a string and returns it with the first character capitalized.</li>
 
 Example: 
@@ -68,5 +70,9 @@ object == {
 <br />OUTPUT: { average: 4, min: 1, max: 8, length: 6 }
 <br />
 <br />Also works with negativ numbers, empty arrays, 1 element array!!
+
+<h3>TESTS</h3>
+
+You just need to install the dependencies and then run: "npm test"
 
 <h2>Thanks for visiting the repo 😎</h2>
